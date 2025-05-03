@@ -87,15 +87,6 @@ pip install -r requirements.txt
   - **Options:**  
     - Download detailed results.  
     - Start a new grading session.
-
-
-
-### 🤝 Contributing
-- Fork the Project
-
-- Create your Feature Branch
-
-- Create a pull request.
   
 ### 📂 Test Files
 Sample test images and files are available in the Test folder of this repository for reference.
@@ -103,7 +94,39 @@ Sample test images and files are available in the Test folder of this repository
 ### 📜 License
 - Distributed under MIT License. See [LICENSE](LICENSE) for details.
 
-###❤️ Acknowledgments
-- 00-Shreyas-00
-- DumboDhruvi
-- NeelSingh16
+### ❤️ Contributors
+<table>
+ <tbody>
+   <tr>
+     <td align="center">
+       <a href="https://github.com/Akshint0407">
+         <img src="https://avatars.githubusercontent.com/u/166590337?v=4?s=100" width="100px;" alt="Akshint0407"/><br />
+         <sub><b>Akshint0407</b></sub>
+       </a><br />
+       <a href="#content-akshint0407" title="Content">🖋</a>
+     </td>
+     <td align="center">
+       <a href="https://github.com/00-Shreyas-00">
+         <img src="https://avatars.githubusercontent.com/u/160647523?v=4?s=100" width="100px;" alt="00-Shreyas-00"/><br />
+         <sub><b>00-Shreyas-00</b></sub>
+       </a><br />
+       <a href="#content-00-shreyas-00" title="Content">🖋</a>
+     </td>
+     <td align="center">
+       <a href="https://github.com/DumboDhruvi">
+         <img src="https://avatars.githubusercontent.com/u/105217985?v=4?s=100" width="100px;" alt="DumboDhruvi"/><br />
+         <sub><b>DumboDhruvi</b></sub>
+       </a><br />
+       <a href="#content-dumbodhruvi" title="Content">🖋</a>
+     </td>
+     <td align="center">
+       <a href="https://github.com/NeelSingh16">
+         <img src="https://avatars.githubusercontent.com/u/156997262?v=4?s=100" width="100px;" alt="NeelSingh16"/><br />
+         <sub><b>NeelSingh16</b></sub>
+       </a><br />
+       <a href="#content-neelsingh16" title="Content">🖋</a>
+     </td>
+   </tr>
+ </tbody>
+</table>
+
